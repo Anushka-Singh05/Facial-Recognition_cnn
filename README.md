@@ -115,6 +115,3 @@ FER-DCNN/
 ---
 ## 
 > "When machines learn to read emotions, they don’t just classify faces — they begin to understand the language of human expression."
-
-I
-pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
